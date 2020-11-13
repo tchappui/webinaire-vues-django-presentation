@@ -1,0 +1,14 @@
+
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+theme-background : [ "#000" ]
+theme-headline   : [ "Quicksand", "#FF5527", "none", "#FFFFFF", "80", "130", "15" ]
+theme-byline     : [ "Roboto", "#FFFFFF", "none", "#FF5527", "80", "120", "15" ]
+theme-text       : [ "Ubuntu", "#FFFFFF", "none", "#D35400", "100", "110", "15" ]
+theme-links      : [ "#D35400", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : tomorrow-night-bright
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+layout           : center
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END

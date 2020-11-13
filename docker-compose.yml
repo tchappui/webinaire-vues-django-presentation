@@ -1,0 +1,8 @@
+version: "3"
+services:
+    gitpitch:
+        image: gitpitch/4.0
+        ports:
+            - "9876:9000"
+        volumes:
+            - ".:/repo" 
